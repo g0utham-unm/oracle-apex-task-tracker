@@ -46,11 +46,6 @@ oracle-apex-task-tracker/
    - Set up authentication if needed (e.g., App Users)
    - Launch from APEX dashboard.
 
-## 📌 Notes
-
-- This project was originally created for learning and portfolio use.
-- The APEX dynamic actions and PL/SQL processes help demonstrate low-code event handling.
-
 ## 👨‍💻 Author
 
 **Sai Goutham Panamgipalli**  
